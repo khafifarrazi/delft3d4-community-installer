@@ -8,6 +8,8 @@ Installer mandiri (*All-in-One Installer*) ini dirancang khusus agar Anda dan re
 * **Tautan Unduh Google Drive**: [**Unduh Installer (Google Drive Folder)**](https://drive.google.com/drive/folders/1n4nYRUO1JAszAicliTmhP5IbFDc4uOIP?usp=sharing)
 * **Nama Berkas**: `Delft3D_4_Suite_4.07.02_AllInOne_Setup.exe`
 * **Arsitektur**: Windows 64-bit (x64)
+* **Ukuran Berkas**: ~392 MB (411.149.041 byte)
+* **SHA-256 Checksum**: `84EB99005729D503B54A061F1962E8A466C346CE3AA9485C492C90207A857721`
 * **Status**: Siap didistribusikan / dipasang langsung (Bebas data pribadi)
 
 ---

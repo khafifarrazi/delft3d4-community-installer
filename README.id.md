@@ -117,6 +117,8 @@ Anda dapat langsung mengunduh file installer mandiri dari tautan penyimpanan awa
 > **Informasi File:**
 > * **Nama Berkas**: `Delft3D_4_Suite_4.07.02_AllInOne_Setup.exe`
 > * **Arsitektur**: Windows 64-bit (x64)
+> * **Ukuran Berkas**: ~392 MB (411.149.041 byte)
+> * **SHA-256**: `84EB99005729D503B54A061F1962E8A466C346CE3AA9485C492C90207A857721`
 > * *(Catatan: Folder Google Drive juga memuat file opsional `vc_redist.x64.exe` jika komputer Anda belum memiliki Microsoft Visual C++ runtime).*
 
 ### 2. Jalankan Wisaya Instalasi (Setup Wizard)

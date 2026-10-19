@@ -117,6 +117,8 @@ You can download the ready-to-use setup executable directly from the cloud link 
 > **Installer Details:**
 > * **Filename**: `Delft3D_4_Suite_4.07.02_AllInOne_Setup.exe`
 > * **Target Architecture**: Windows 64-bit (x64)
+> * **File Size**: ~392 MB (411,149,041 bytes)
+> * **SHA-256**: `84EB99005729D503B54A061F1962E8A466C346CE3AA9485C492C90207A857721`
 > * *(Note: The Google Drive folder also contains the optional `vc_redist.x64.exe` Microsoft runtime installer if needed).*
 
 ### 2. Run the Setup Wizard
