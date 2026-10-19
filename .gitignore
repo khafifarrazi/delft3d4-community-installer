@@ -1,0 +1,29 @@
+# ==============================================================================
+# Git Ignore Configuration for Delft3D FM Community Installer
+# ==============================================================================
+
+# 🔒 PRIVATE LICENSES & CREDENTIALS (DO NOT COMMIT)
+*.lic
+*.key
+*.pem
+Delft3D_FM_2D3D_GUI_OSS.lic
+
+# 📦 LARGE BINARY INSTALLER OUTPUTS (Publish via GitHub Releases instead)
+Installer_Output/
+*.exe
+*.msi
+
+# ⚙️ BUILD ARTIFACTS & CACHES
+build_fm-suite/
+install_fm-suite/
+__pycache__/
+*.py[cod]
+.conan2/
+
+# 💻 IDE & TEMPORARY FILES
+.vscode/
+.vs/
+*.suo
+*.user
+Thumbs.db
+Desktop.ini

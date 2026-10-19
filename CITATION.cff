@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this community packaging or Delft3D 4 Suite in your research, please cite both Deltares and this distribution as follows."
+title: "Delft3D 4 Suite: Community All-in-One Windows Installer"
+version: 4.07.02
+date-released: 2026-10-19
+url: "https://github.com/Deltares/Delft3D"
+repository-code: "https://github.com/Deltares/Delft3D"
+authors:
+  - name: "Deltares Delft3D Community & Contributors"
+preferred-citation:
+  type: manual
+  authors:
+    - name: "Stichting Deltares"
+  title: "Delft3D 4: Simulation of multi-dimensional hydrodynamic flows and transport processes, including sediment"
+  year: 2026
+  publisher:
+    name: "Deltares"
+    address: "Delft, The Netherlands"
+  url: "https://www.deltares.nl/en/software-and-data/products/delft3d-4-suite"
